@@ -1,0 +1,51 @@
+body
+
+
+h1{
+text-align: center;
+color:red;
+border:2px solid black;
+margin:0;
+background-color:black;
+
+}
+div{
+  
+  margin:0;
+  
+  
+}
+h2{
+  
+text-align: left;
+margin: 0;
+}
+h3{
+ margin:0;
+ 
+}
+
+  
+  
+
+.weather{
+  margin:0;
+}
+#google
+{
+text-align: center;
+position: fixed;
+margin: 0;
+gap: 0;
+}
+#chrome{
+display:flex;  
+justify-content: space-evenly;
+}
+ 
+.tele
+ {
+display:flex;
+flex-direction: row;
+justify-content:space-evenly;
+}
